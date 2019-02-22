@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/AquarelaDesign/catalogo.git"
+    }
+  ],
+  "description": "Catalogo de Peças",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "catalogo",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
